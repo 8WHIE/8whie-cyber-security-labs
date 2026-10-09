@@ -1,0 +1,6 @@
+{
+  "name": "8WHIE Cyber Security Labs",
+  "description": "Worldwide Hackers Intelligence & Ethics. Educational platform for CTF write-ups, security roadmaps, and lab research by Aryan Thakur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
